@@ -1,0 +1,15 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Android study projects"
+include ':app'
+include ':001firstproject'
+include ':002buttonclick'
+include ':003oneonclick'
+include ':004activitylistener'
+include ':005res'
