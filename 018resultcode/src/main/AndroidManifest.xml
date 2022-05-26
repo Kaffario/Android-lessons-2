@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidStudyProjects">
         <activity
+            android:name=".AlignActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ColorActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

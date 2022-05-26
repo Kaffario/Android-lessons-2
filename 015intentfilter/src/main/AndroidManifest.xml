@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidStudyProjects">
         <activity
+            android:name=".ActivityTime"
+            android:exported="true" >
+        <intent-filter>
+            <action android:name="ru.startandroid.intent.action.showtime" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+
+        </intent-filter>
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -15,6 +16,23 @@
             <option value="$PROJECT_DIR$/003oneonclick" />
             <option value="$PROJECT_DIR$/004activitylistener" />
             <option value="$PROJECT_DIR$/005res" />
+            <option value="$PROJECT_DIR$/006simplemenu" />
+            <option value="$PROJECT_DIR$/007advmenu" />
+            <option value="$PROJECT_DIR$/008contextmenu" />
+            <option value="$PROJECT_DIR$/009codelayout" />
+            <option value="$PROJECT_DIR$/010dynamiclayout" />
+            <option value="$PROJECT_DIR$/011newdynlay" />
+            <option value="$PROJECT_DIR$/012animcomp" />
+            <option value="$PROJECT_DIR$/013twoactivity" />
+            <option value="$PROJECT_DIR$/014lifecycle" />
+            <option value="$PROJECT_DIR$/015intentfilter" />
+            <option value="$PROJECT_DIR$/016intentwithdata" />
+            <option value="$PROJECT_DIR$/017twoactway" />
+            <option value="$PROJECT_DIR$/018resultcode" />
+            <option value="$PROJECT_DIR$/019simpleintent" />
+            <option value="$PROJECT_DIR$/020intentwithresult" />
+            <option value="$PROJECT_DIR$/021simplebrowser" />
+            <option value="$PROJECT_DIR$/022preferenses" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
