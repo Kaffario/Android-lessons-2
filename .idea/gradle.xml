@@ -36,6 +36,9 @@
             <option value="$PROJECT_DIR$/023simplesqlite" />
             <option value="$PROJECT_DIR$/024sqlquery" />
             <option value="$PROJECT_DIR$/025sqlinnerjoin" />
+            <option value="$PROJECT_DIR$/026layoutinflater" />
+            <option value="$PROJECT_DIR$/027layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/028simplelist" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
