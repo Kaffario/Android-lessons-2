@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">030simplelistevents</string>
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+        <item>Сергей</item>
+        <item>Сергей</item>
+        <item>Сергей</item>
+        <item>Сергей</item>
+        <item>Сер</item>
+        <item>Дени</item>
+    </string-array>
+</resources>

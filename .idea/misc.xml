@@ -44,6 +44,11 @@
         <entry key="..\:/Projects/ASP/027layoutinflaterlist/src/main/res/layout/activity_main.xml" value="0.21875" />
         <entry key="..\:/Projects/ASP/027layoutinflaterlist/src/main/res/layout/item.xml" value="0.22554347826086957" />
         <entry key="..\:/Projects/ASP/028simplelist/src/main/res/layout/activity_main.xml" value="0.22554347826086957" />
+        <entry key="..\:/Projects/ASP/029simplelistchoise/src/main/res/drawable/ic_launcher_background.xml" value="0.39692307692307693" />
+        <entry key="..\:/Projects/ASP/029simplelistchoise/src/main/res/layout/activity_main.xml" value="0.18819655521783182" />
+        <entry key="..\:/Projects/ASP/030simplelistevents/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Projects/ASP/031expandablelist/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Projects/ASP/032expandablelistevents/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
       </map>
     </option>
   </component>

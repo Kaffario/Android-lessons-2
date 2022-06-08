@@ -39,6 +39,10 @@
             <option value="$PROJECT_DIR$/026layoutinflater" />
             <option value="$PROJECT_DIR$/027layoutinflaterlist" />
             <option value="$PROJECT_DIR$/028simplelist" />
+            <option value="$PROJECT_DIR$/029simplelistchoise" />
+            <option value="$PROJECT_DIR$/030simplelistevents" />
+            <option value="$PROJECT_DIR$/031expandablelist" />
+            <option value="$PROJECT_DIR$/032expandablelistevents" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
