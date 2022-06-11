@@ -43,6 +43,7 @@
             <option value="$PROJECT_DIR$/030simplelistevents" />
             <option value="$PROJECT_DIR$/031expandablelist" />
             <option value="$PROJECT_DIR$/032expandablelistevents" />
+            <option value="$PROJECT_DIR$/033simpleadapter" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
